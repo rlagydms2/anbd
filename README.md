@@ -2,6 +2,11 @@
 
 ![](readme/homepage.png)
 
+## **프로젝트 발표 영상**
+
+#### | YuTube URL | <br/>
+https://www.youtube.com/watch?v=54-fBDTxFR8&list=PLedGoSru794_gV9NDzrzhk2PsJGThG23p
+
 # ♻️ **ANBD 소개**
 
 ### ‘아’껴쓰고 ‘나’눠쓰고 ‘바’꿔쓰고 ‘다’시쓰자
@@ -102,9 +107,3 @@ Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
 
 모바일에서도 사용가능하도록 반응형 웹을 구현하였습니다.
 <img width="730" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/59ab0933-71fa-451b-8b42-10a02e09d38a">
-
-
-## **프로젝트 발표 영상**
-
-| YuTube URL |
-https://www.youtube.com/watch?v=54-fBDTxFR8&list=PLedGoSru794_gV9NDzrzhk2PsJGThG23p
