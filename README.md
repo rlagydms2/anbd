@@ -82,8 +82,9 @@ Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
 ### 로그인
 <img width="1153" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/00824b2b-df8c-4548-8880-d1874aa8e70e">
 
-### 상품 등록 CRUD
-![](readme/)
+### 상품 등록 페이지
+<img width="1155" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/05ef439b-7586-476a-a378-1476e0f1ce84">
+
 
 ### 상품목록 필터링
 
