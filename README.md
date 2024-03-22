@@ -65,11 +65,23 @@
 ### 채팅방
 ![](readme/)
 
-### 마이페이지
-![](readme/)
+### 권한별 페이지 렌더링
+권한 : 비회원, 회원, 관리자<br/>
 
-### 관리자페이지
-![](readme/)
+<img width="796" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/02a93742-bff6-4b53-a1ff-3256ffae4c79"><br/>
+권한에 따라 회원과 관리자의 mypagebar가 다르게 렌더링되며 비회원은 회원아이콘과 mypagebar가 제공되지 않습니다.
+
+
+### 상품목록 필터링
+
+상품 상태를 필터링해주는 select와 검색창이 있습니다.<br/>
+<img width="790" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/451f3ba2-6ea5-4144-8865-d03c73bed59a"> <br/>
+상품 상태만을 필터링해보겠습니다.<br/>
+<img width="790" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/87f5ab34-f05a-4ed4-998e-bdeb40361aaa"><br/>
+필터링된 목록에서 검색을 해보겠습니다.<br/>
+<img width="754" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/72bf3423-0ab2-4472-9cbc-fcfa4a9167ec">
+
+
 
 ### 독립적 컴포넌트
 
