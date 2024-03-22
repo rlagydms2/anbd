@@ -79,8 +79,8 @@ Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
 필수 입력사항 미입력시 경고문이 나타납니다.
 
 
-### JWT 로그인
-![](readme/)
+### 로그인
+<img width="1153" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/00824b2b-df8c-4548-8880-d1874aa8e70e">
 
 ### 상품 등록 CRUD
 ![](readme/)
