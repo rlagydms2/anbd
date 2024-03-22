@@ -56,14 +56,13 @@
 
 ## **서비스 기능 소개**
 
-### JWT 로그인
-![](readme/)
+### 독립적 컴포넌트
 
-### 상품 등록 CRUD
-![](readme/)
-
-### 채팅방
-![](readme/)
+<img width="544" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/fa125bf7-4a6e-4ae1-b163-83c9168859f4"><br/>
+Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
+#### ex) <br/>
+<img width="564" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/f06128f9-7c01-48ed-98ec-c7e44de8c93d"><br/>
+변경된 URL에 따라 content 컴포넌트만 동작하였습니다.
 
 ### 권한별 페이지 렌더링
 권한 : 비회원, 회원, 관리자<br/>
@@ -71,6 +70,11 @@
 <img width="796" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/02a93742-bff6-4b53-a1ff-3256ffae4c79"><br/>
 권한에 따라 회원과 관리자의 mypagebar가 다르게 렌더링되며 비회원은 회원아이콘과 mypagebar가 제공되지 않습니다.
 
+### JWT 로그인
+![](readme/)
+
+### 상품 등록 CRUD
+![](readme/)
 
 ### 상품목록 필터링
 
@@ -81,20 +85,14 @@
 필터링된 목록에서 검색을 해보겠습니다.<br/>
 <img width="754" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/72bf3423-0ab2-4472-9cbc-fcfa4a9167ec">
 
-
-
-### 독립적 컴포넌트
-
-<img width="544" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/fa125bf7-4a6e-4ae1-b163-83c9168859f4"><br/>
-Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
-#### ex) <br/>
-<img width="564" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/f06128f9-7c01-48ed-98ec-c7e44de8c93d"><br/>
-변경된 URL에 따라 content 컴포넌트만 동작하였다.
-
-
+### 채팅방
+![](readme/)
 
 ### 반응형 웹
-![](readme/)
+
+모바일에서도 사용가능하도록 반응형 웹을 구현하였습니다.
+<img width="730" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/59ab0933-71fa-451b-8b42-10a02e09d38a">
+
 
 ## **프로젝트 발표 영상**
 
