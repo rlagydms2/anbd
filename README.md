@@ -69,6 +69,16 @@
 ### 관리자페이지
 ![](readme/)
 
+### 독립적 컴포넌트
+
+<img width="544" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/fa125bf7-4a6e-4ae1-b163-83c9168859f4"><br/>
+Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
+#### ex) <br/>
+<img width="564" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/f06128f9-7c01-48ed-98ec-c7e44de8c93d"><br/>
+변경된 URL에 따라 content 컴포넌트만 동작하였다.
+
+
+
 ### 반응형 웹
 ![](readme/)
 
