@@ -70,6 +70,14 @@ Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
 <img width="796" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/02a93742-bff6-4b53-a1ff-3256ffae4c79"><br/>
 권한에 따라 회원과 관리자의 mypagebar가 다르게 렌더링되며 비회원은 회원아이콘과 mypagebar가 제공되지 않습니다.
 
+### 회원가입 validation
+
+<img width="772" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/10bbf963-d873-4bd4-b394-a9afc51495b7"><br/>
+⬇️<br/>
+<img width="758" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/69f3e2fc-deb8-4a43-a422-4b35e8d52c43"><br/>
+필수 입력사항 미입력시 경고문이 나타납니다.
+
+
 ### JWT 로그인
 ![](readme/)
 
