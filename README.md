@@ -113,7 +113,16 @@ Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
 
 
 ### 채팅방
-![GOMCAM20240325_1210320828-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/7ae22c57-ef23-4a32-b237-71d93d9d3d18)
+![GOMCAM20240325_1210320828-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/7ae22c57-ef23-4a32-b237-71d93d9d3d18)<br/>
+<img width="814" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/30bf452e-a877-4105-b3f0-a066a64fcddd">
+<img width="814" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/d4717939-55c5-4542-97cc-6786ea162c07">
+
+
+
+-> 구매자 화면<br/>
+![GOMCAM20240325_1216170030-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/c2a80940-7f42-442b-84c5-7aa715bc4ed1)
+![GOMCAM 20240325_1217570060](https://github.com/leejonghyeon99/anbd/assets/151723087/2ca583df-734b-49ba-80b3-87c0dbb7b73e)<br/>
+ -> 판매자 화면<br/>
 
 
 ### 반응형 웹
