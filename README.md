@@ -123,6 +123,7 @@ Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
 ![GOMCAM20240325_1216170030-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/c2a80940-7f42-442b-84c5-7aa715bc4ed1)
 ![GOMCAM 20240325_1217570060](https://github.com/leejonghyeon99/anbd/assets/151723087/2ca583df-734b-49ba-80b3-87c0dbb7b73e)<br/>
  -> 판매자 화면<br/>
+ ![GOMCAM20240325_1226440531-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/2c38125c-146f-4a3b-b00c-d600d6b548d8)
 
 
 ### 반응형 웹
