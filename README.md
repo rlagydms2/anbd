@@ -107,10 +107,14 @@ Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
 상품 상태만을 필터링해보겠습니다.<br/>
 <img width="790" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/87f5ab34-f05a-4ed4-998e-bdeb40361aaa"><br/>
 필터링된 목록에서 검색을 해보겠습니다.<br/>
-<img width="754" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/72bf3423-0ab2-4472-9cbc-fcfa4a9167ec">
+<img width="754" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/72bf3423-0ab2-4472-9cbc-fcfa4a9167ec"><br/>
+
+![GOMCAM20240325_1154570201-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/08666f0b-dc4e-4876-8a68-30c23f361492)
+
 
 ### 채팅방
-![](readme/)
+![GOMCAM20240325_1210320828-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/7ae22c57-ef23-4a32-b237-71d93d9d3d18)
+
 
 ### 반응형 웹
 
