@@ -65,10 +65,12 @@ https://www.youtube.com/watch?v=54-fBDTxFR8&list=PLedGoSru794_gV9NDzrzhk2PsJGThG
 ### 독립적 컴포넌트
 
 <img width="544" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/fa125bf7-4a6e-4ae1-b163-83c9168859f4"><br/><br/>
-Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/><br/>
-#### ex) <br/><br/>
+✔️ Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/><br/>
 <img width="564" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/f06128f9-7c01-48ed-98ec-c7e44de8c93d"><br/><br/>
-변경된 URL에 따라 content 컴포넌트만 동작하였습니다.<br/>
+✔️ 변경된 URL에 따라 content 컴포넌트만 동작<br/><br/>
+▶ ** 시연 영상 **<br/>
+![GOMCAM20240325_1508240137-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/10302aaa-1018-4b71-a358-73f70dd70e84)
+<br/>
 
 ### 권한별 페이지 렌더링
 권한 : 비회원, 회원, 관리자<br/><br/>
