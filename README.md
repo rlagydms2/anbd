@@ -1,3 +1,4 @@
+
 <img width="1200"  alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/97c5278a-bd23-44c0-81b6-6a1051561c49">
 
 <img width="1200" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/10b1f42a-9d86-420f-ba3a-e518d1a279e2">
@@ -80,9 +81,17 @@ Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
 <img width="758" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/10bbf963-d873-4bd4-b394-a9afc51495b7"><br/>
 <p>&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 
   &ensp; &ensp;⬇️<br/></p>
-<img width="758" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/69f3e2fc-deb8-4a43-a422-4b35e8d52c43"><br/>
-필수 입력사항 미입력시 경고문이 나타납니다.
+  
 
+<img width="758" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/69f3e2fc-deb8-4a43-a422-4b35e8d52c43"><br/>
+필수 입력사항 미입력시 경고문이 나타납니다.<br/><br/>
+
+![ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/21329e46-991b-4a11-9f86-a34170f7c1ec)<br/>
+-이메일 미기입 유효성검사<br/>
+<br/>
+![ezgif com-resize (1)](https://github.com/leejonghyeon99/anbd/assets/151723087/57a08ec4-59c5-4e46-94f7-46fb8d31ff03)<br/>
+-그 외 회원가입 정보 미기입 유효성검사<br/>
+<br/>
 
 ### 로그인
 <img width="1153" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/00824b2b-df8c-4548-8880-d1874aa8e70e">
