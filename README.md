@@ -1,4 +1,4 @@
-<img width="846" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/4ac35559-c422-4d00-bf8a-a743031497a0">
+
 <img width="1200"  alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/97c5278a-bd23-44c0-81b6-6a1051561c49">
 
 <img width="1200" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/10b1f42a-9d86-420f-ba3a-e518d1a279e2">
