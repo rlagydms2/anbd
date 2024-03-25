@@ -86,11 +86,11 @@ https://www.youtube.com/watch?v=54-fBDTxFR8&list=PLedGoSru794_gV9NDzrzhk2PsJGThG
 <img width="758" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/69f3e2fc-deb8-4a43-a422-4b35e8d52c43"><br/>
 ✔️ 필수 입력사항 미입력시 경고문이 나타납니다.<br/><br/>
 
-![ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/21329e46-991b-4a11-9f86-a34170f7c1ec)<br/><br/>
 ✔️ -이메일 미기입 유효성검사<br/>
 <br/>
-![ezgif com-resize (1)](https://github.com/leejonghyeon99/anbd/assets/151723087/57a08ec4-59c5-4e46-94f7-46fb8d31ff03)<br/><br/>
+![ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/21329e46-991b-4a11-9f86-a34170f7c1ec)<br/><br/>
 ✔️ -그 외 회원가입 정보 미기입 유효성검사<br/>
+![ezgif com-resize (1)](https://github.com/leejonghyeon99/anbd/assets/151723087/57a08ec4-59c5-4e46-94f7-46fb8d31ff03)<br/><br/>
 <br/>
 
 ### 로그인
