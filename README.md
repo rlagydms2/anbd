@@ -64,69 +64,66 @@ https://www.youtube.com/watch?v=54-fBDTxFR8&list=PLedGoSru794_gV9NDzrzhk2PsJGThG
 
 ### 독립적 컴포넌트
 
-<img width="544" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/fa125bf7-4a6e-4ae1-b163-83c9168859f4"><br/>
-Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/>
-#### ex) <br/>
-<img width="564" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/f06128f9-7c01-48ed-98ec-c7e44de8c93d"><br/>
-변경된 URL에 따라 content 컴포넌트만 동작하였습니다.
+<img width="544" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/fa125bf7-4a6e-4ae1-b163-83c9168859f4"><br/><br/>
+Header / Sidebar / content 컴포넌트가 각각 독립적으로 동작 <br/><br/>
+#### ex) <br/><br/>
+<img width="564" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/f06128f9-7c01-48ed-98ec-c7e44de8c93d"><br/><br/>
+변경된 URL에 따라 content 컴포넌트만 동작하였습니다.<br/>
 
 ### 권한별 페이지 렌더링
-권한 : 비회원, 회원, 관리자<br/>
+권한 : 비회원, 회원, 관리자<br/><br/>
 
-<img width="796" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/02a93742-bff6-4b53-a1ff-3256ffae4c79"><br/>
-권한에 따라 회원과 관리자의 mypagebar가 다르게 렌더링되며 비회원은 회원아이콘과 mypagebar가 제공되지 않습니다.
+<img width="796" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/02a93742-bff6-4b53-a1ff-3256ffae4c79"><br/><br/>
+✔️ 권한에 따라 회원과 관리자의 mypagebar가 다르게 렌더링되며 비회원은 회원아이콘과 mypagebar가 제공되지 않습니다.<br/><br/>
 
 ### 회원가입 validation
 
-<img width="758" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/10bbf963-d873-4bd4-b394-a9afc51495b7"><br/>
+<img width="758" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/10bbf963-d873-4bd4-b394-a9afc51495b7"><br/><br/>
 <p>&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 
   &ensp; &ensp;⬇️<br/></p>
-  
-
 <img width="758" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/69f3e2fc-deb8-4a43-a422-4b35e8d52c43"><br/>
-필수 입력사항 미입력시 경고문이 나타납니다.<br/><br/>
+✔️ 필수 입력사항 미입력시 경고문이 나타납니다.<br/><br/>
 
-![ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/21329e46-991b-4a11-9f86-a34170f7c1ec)<br/>
--이메일 미기입 유효성검사<br/>
+![ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/21329e46-991b-4a11-9f86-a34170f7c1ec)<br/><br/>
+✔️ -이메일 미기입 유효성검사<br/>
 <br/>
-![ezgif com-resize (1)](https://github.com/leejonghyeon99/anbd/assets/151723087/57a08ec4-59c5-4e46-94f7-46fb8d31ff03)<br/>
--그 외 회원가입 정보 미기입 유효성검사<br/>
+![ezgif com-resize (1)](https://github.com/leejonghyeon99/anbd/assets/151723087/57a08ec4-59c5-4e46-94f7-46fb8d31ff03)<br/><br/>
+✔️ -그 외 회원가입 정보 미기입 유효성검사<br/>
 <br/>
 
 ### 로그인
-<img width="1153" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/00824b2b-df8c-4548-8880-d1874aa8e70e">
+<img width="1153" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/00824b2b-df8c-4548-8880-d1874aa8e70e"><br/><br/>
 
 ### 상품 등록 페이지
-<img width="1155" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/05ef439b-7586-476a-a378-1476e0f1ce84">
+<img width="1155" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/05ef439b-7586-476a-a378-1476e0f1ce84"><br/><br/>
 
 
 ### 상품목록 필터링
 
-상품 상태를 필터링해주는 select와 검색창이 있습니다.<br/>
-<img width="790" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/451f3ba2-6ea5-4144-8865-d03c73bed59a"> <br/>
-상품 상태만을 필터링해보겠습니다.<br/>
-<img width="790" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/87f5ab34-f05a-4ed4-998e-bdeb40361aaa"><br/>
-필터링된 목록에서 검색을 해보겠습니다.<br/>
-<img width="754" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/72bf3423-0ab2-4472-9cbc-fcfa4a9167ec"><br/>
-
+✔️ 상품 상태를 필터링해주는 select와 검색창이 있습니다.<br/>
+<img width="790" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/451f3ba2-6ea5-4144-8865-d03c73bed59a"> <br/><br/>
+✔️ 상품 상태만을 필터링해보겠습니다.<br/><br/>
+<img width="790" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/87f5ab34-f05a-4ed4-998e-bdeb40361aaa"><br/><br/>
+✔️ 필터링된 목록에서 검색을 해보겠습니다.<br/><br/>
+<img width="754" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/72bf3423-0ab2-4472-9cbc-fcfa4a9167ec"><br/><br/>
+▶ ** 시연 영상 **<br/>
 ![GOMCAM20240325_1154570201-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/08666f0b-dc4e-4876-8a68-30c23f361492)
 
 
 ### 채팅방
-![GOMCAM20240325_1210320828-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/7ae22c57-ef23-4a32-b237-71d93d9d3d18)<br/>
-<img width="814" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/30bf452e-a877-4105-b3f0-a066a64fcddd">
-<img width="814" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/d4717939-55c5-4542-97cc-6786ea162c07">
-
-
-
--> 구매자 화면<br/>
+<br/> ✔️ 원하는 상품의 구매자에게 채팅을 보낼 수 있습니다.<br/><br/>
+![GOMCAM20240325_1210320828-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/7ae22c57-ef23-4a32-b237-71d93d9d3d18)<br/><br/>
+✔️ 구매하고자 했던 목록의 채팅을 보기 위해선 아래와 같이 마이페이지 바를 통해 채팅목록으로 이동할 수 있습니다.<br/><br/>
+<img width="814" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/30bf452e-a877-4105-b3f0-a066a64fcddd"><br/><hr/>
+<img width="814" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/d4717939-55c5-4542-97cc-6786ea162c07"><br/><br/>
+▶ 판매자 화면<br/><br/>
 ![GOMCAM20240325_1216170030-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/c2a80940-7f42-442b-84c5-7aa715bc4ed1)
-![GOMCAM 20240325_1217570060](https://github.com/leejonghyeon99/anbd/assets/151723087/2ca583df-734b-49ba-80b3-87c0dbb7b73e)<br/>
- -> 판매자 화면<br/>
- ![GOMCAM20240325_1226440531-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/2c38125c-146f-4a3b-b00c-d600d6b548d8)
+![GOMCAM 20240325_1217570060](https://github.com/leejonghyeon99/anbd/assets/151723087/2ca583df-734b-49ba-80b3-87c0dbb7b73e)<br/><br/>
+▶ 채팅 영상 왼쪽-판매자, 오른쪽-구매자<br/><br/>
+ ![GOMCAM20240325_1226440531-ezgif com-resize](https://github.com/leejonghyeon99/anbd/assets/151723087/2c38125c-146f-4a3b-b00c-d600d6b548d8)<br/>
 
 
 ### 반응형 웹
 
-모바일에서도 사용가능하도록 반응형 웹을 구현하였습니다.
-<img width="730" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/59ab0933-71fa-451b-8b42-10a02e09d38a">
+✔️ 모바일에서도 사용가능하도록 반응형 웹을 구현하였습니다.<br/><br/>
+<img width="800" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/59ab0933-71fa-451b-8b42-10a02e09d38a">
