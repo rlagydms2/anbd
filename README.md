@@ -1,4 +1,4 @@
-
+<img width="846" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/4ac35559-c422-4d00-bf8a-a743031497a0">
 <img width="1200"  alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/97c5278a-bd23-44c0-81b6-6a1051561c49">
 
 <img width="1200" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/10b1f42a-9d86-420f-ba3a-e518d1a279e2">
@@ -73,10 +73,26 @@ https://www.youtube.com/watch?v=54-fBDTxFR8&list=PLedGoSru794_gV9NDzrzhk2PsJGThG
 <br/>
 
 ### 권한별 페이지 렌더링
-권한 : 비회원, 회원, 관리자<br/><br/>
+✔️ 권한 : 비회원, 회원, 관리자<br/><br/>
 
-<img width="796" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/02a93742-bff6-4b53-a1ff-3256ffae4c79"><br/><br/>
 ✔️ 권한에 따라 회원과 관리자의 mypagebar가 다르게 렌더링되며 비회원은 회원아이콘과 mypagebar가 제공되지 않습니다.<br/><br/>
+<img width="796" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/02a93742-bff6-4b53-a1ff-3256ffae4c79"><br/><br/>
+✔️ 권한에 따라 비회원은 아래와 같은 상품에 대한 서비스 이용이 제한되어있습니다.<br/><br/>
+◆ 회원의 경우<br/><br/>
+✔️ 상품등록버튼 有, 회원 아이콘 有<br/><br/>
+<img width="832" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/e84054b1-c2ea-4fac-9b33-8c82400df9e8"><br/><br/>
+✔️ 타인 게시물 채팅아이콘 有, 내 게시물 수정, 삭제버튼 有 <br/><br/>
+<img width="812" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/824bd4c2-52d3-4dc7-8fe9-17203b4dcd33"><br/><hr/>
+◆ 비회원의 경우<br/><br/>
+✔️ 상품등록버튼 無, 회원 아이콘 대신 로그인, 회원가입 버튼 有<br/><br/>
+<img width="833" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/dfbc2848-fd2a-4fa6-aab4-c4ede9ecdd97"><br/><br/>
+✔️ 채팅 또는 수정, 삭제 버튼 無<br/><br/>
+<img width="846" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/0a31c576-3c50-4539-b72a-e5b54354461e">
+
+
+
+
+
 
 ### 회원가입 validation
 
