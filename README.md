@@ -34,9 +34,7 @@ https://www.youtube.com/watch?v=54-fBDTxFR8&list=PLedGoSru794_gV9NDzrzhk2PsJGThG
 |  |  | 구글맵API를 이용한 거래장소 구현         |
 <br/>
 
-### 📊 기여도
-
-<br/><br/>
+#### 📊 기여도
 
 <img width="685" alt="image" src="https://github.com/rlagydms2/anbd/assets/151723087/cfdb6cc8-9a84-4266-9045-cb03f863a567">
 <br/>
